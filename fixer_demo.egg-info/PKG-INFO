@@ -1,3 +1,5 @@
 Metadata-Version: 2.1
 Name: fixer-demo
-Version: 0.1
+Version: 0.2
+Home-page: https://github.com/leilawe/fexerdemo
+Requires-Dist: requests
